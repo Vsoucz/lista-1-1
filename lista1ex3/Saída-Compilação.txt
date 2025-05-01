@@ -1,0 +1,4 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: lista1ex3, Configuração: Debug Any CPU ------
+1>  lista1ex3 -> C:\Users\aluno\source\repos\lista1ex3\lista1ex3\bin\Debug\lista1ex3.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
