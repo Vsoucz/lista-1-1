@@ -4,24 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace listaex1
+namespace lista1ex4
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int baze;
-            int altura;
-            int area;
+            double baseTriangulo;
+            double altura;
+            double area;
 
-            Console.Write("informe o valor da base do retangulo");
-            baze = int.Parse(Console.ReadLine());
+            Console.Write("digigite o valor da base do triangulo");
+            baseTriangulo = double.Parse(Console.ReadLine());
 
-            Console.Write("informe o valor da altura do retangulo");
-            altura = int.Parse(Console.ReadLine());
+            Console.Write("digite o valor da altura do triangulo");
+            altura = double.Parse(Console.ReadLine());
 
-            area = baze * altura;
-            Console.WriteLine("o valor da area de retangulo de baze {0} e altura {1} e area {2}", baze, altura, area);
+          area = altura * baseTriangulo/2;
+
+            Console.WriteLine(" a area da baseTriangulo {0}, altura {1} e area {2}");
         }
     }
 }
