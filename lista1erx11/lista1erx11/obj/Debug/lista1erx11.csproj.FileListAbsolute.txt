@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\lista1erx11\lista1erx11\bin\Debug\lista1erx11.exe.config
+C:\Users\aluno\source\repos\lista1erx11\lista1erx11\bin\Debug\lista1erx11.exe
+C:\Users\aluno\source\repos\lista1erx11\lista1erx11\bin\Debug\lista1erx11.pdb
+C:\Users\aluno\source\repos\lista1erx11\lista1erx11\obj\Debug\lista1erx11.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\lista1erx11\lista1erx11\obj\Debug\lista1erx11.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\lista1erx11\lista1erx11\obj\Debug\lista1erx11.exe
+C:\Users\aluno\source\repos\lista1erx11\lista1erx11\obj\Debug\lista1erx11.pdb
